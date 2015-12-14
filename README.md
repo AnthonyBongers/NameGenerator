@@ -4,7 +4,7 @@ A quick application I made to generate names using the US census. The applicatio
 
 ## Instructions
 
-First off, you will need to install [QML Material](https://github.com/papyros/qml-material). Installing this theme will allow you to deploy using this theme on desktops. I had to configure the installation a bit to get it running on Android.
+First off, you will need to install [QML Material](https://github.com/papyros/qml-material). Installing this theme will allow you to deploy using this theme on desktops. I had to configure the installation a bit to get it running on mobile devices.
 
 Next, run [gen_names.sh](gen_names.sh) to download and format the names from the US census into a more easy to work with format of json.
 
